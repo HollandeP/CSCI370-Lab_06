@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Database Lab</string>
+    <string name="submit">Submit Name</string>
+    <string name="list">List Names</string>
+</resources>
